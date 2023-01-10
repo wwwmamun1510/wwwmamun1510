@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [No](No)
 
-- 💬 Ask me about **Vue/laravel**
+- 💬 Ask me about **Vue.js/laravel**
 
 - 📫 How to reach me **mamun.iubat.1510@gmail.com/01869111689**
 
