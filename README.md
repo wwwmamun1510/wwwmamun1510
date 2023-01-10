@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wwwmamun1510" alt="wwwmamun1510" /></a> </p>
 
-- 🔭 I’m currently working on [Vue Project/Laravel](https://github.com/wwwmamun1510/Todo)
+- 🔭 I’m currently working on [Vue Project/Laravel Project](https://github.com/wwwmamun1510/Todo)
 
 - 🌱 I’m currently learning **Vue.js & Laravel Framework**
 
-- 👯 I’m looking to collaborate on [Vue Project](https://github.com/wwwmamun1510/Todo)
+- 👯 I’m looking to collaborate on [Vue Project/Laravel Project](https://github.com/wwwmamun1510/Todo)
 
 - 🤝 I’m looking for help with [Todo](https://github.com/wwwmamun1510/Todo)
 
