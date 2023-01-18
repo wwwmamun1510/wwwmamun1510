@@ -1,8 +1,18 @@
 My Small Introduction:
-I am a young enthusiastic professional with a background in Computer Science & Engineering (BSc).I Have Completed My Graduation From IUBAT Under the department of Computer Science & Engineering (BSc).Having expertise
+I am a young enthusiastic professional with a background in Computer Science & Engineering (BSc).I Have Completed My Graduation From IUBAT Under the department of Computer Science & Engineering (BSc).Final grade: 3.35 (Out of 4).Having expertise
 in web application development. Highly interested in Web development, Software development. I am looking forward to
 joining with innovative Team for a long time - ideally initiatives with potential for global positive impact, where I can apply
 all my knowledge and skills, and gain a lot of experience from them.
+Job-related skills
+ Source Control: GitHub.
+ Programming Language: PHP, Laravel.
+ Markup Languages: HTML,CSS.Bootstrap.
+ Database Management:MySQL.
+ Basic Knowledge:Vue.js
+ Operating Systems: Linux, Windows.
+ Strong Concept of PHP & OOP.
+ Strong Concept of Laravel Framework.
+ Understanding MVC Architecture in Laravel .
 
 <h1 align="center">Hi 👋, I'm Mamun</h1>
 <h3 align="center">A passionate Backend & Frontend developer from Bangladesh</h3>
