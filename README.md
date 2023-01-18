@@ -1,3 +1,9 @@
+My Small Introduction:
+I am a young enthusiastic professional with a background in Computer Science & Engineering (BSc).I Have Completed My Graduation From IUBAT Under the department of Computer Science & Engineering (BSc).Having expertise
+in web application development. Highly interested in Web development, Software development. I am looking forward to
+joining with innovative Team for a long time - ideally initiatives with potential for global positive impact, where I can apply
+all my knowledge and skills, and gain a lot of experience from them.
+
 <h1 align="center">Hi 👋, I'm Mamun</h1>
 <h3 align="center">A passionate Backend & Frontend developer from Bangladesh</h3>
 
